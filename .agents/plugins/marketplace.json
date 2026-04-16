@@ -1,0 +1,20 @@
+{
+  "name": "dailychat-local",
+  "interface": {
+    "displayName": "DailyChat Local Plugins"
+  },
+  "plugins": [
+    {
+      "name": "startup-workflow",
+      "source": {
+        "source": "local",
+        "path": "./plugins/startup-workflow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "startup-workflow",
+  "version": "0.1.0",
+  "description": "A staged product initiation workflow that moves ideas to MVP scope.",
+  "author": {
+    "name": "Kelvin",
+    "url": "https://github.com/kelvinlrh-cloud"
+  },
+  "homepage": "https://github.com/kelvinlrh-cloud/codex-startup-workflow",
+  "repository": "https://github.com/kelvinlrh-cloud/codex-startup-workflow",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "product-workflow",
+    "mvp",
+    "research",
+    "product-discovery",
+    "workflow-orchestration"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Startup Workflow",
+    "shortDescription": "A gated 0-1 workflow from idea to MVP scope.",
+    "longDescription": "A packaged 0-1 product initiation workflow for AI agents. It combines a control-plane orchestrator with seven gated review stages so teams can move from a rough idea to a reviewable MVP scope without skipping validation steps.",
+    "developerName": "Kelvin",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Research",
+      "Planning"
+    ],
+    "websiteURL": "https://github.com/kelvinlrh-cloud/codex-startup-workflow",
+    "privacyPolicyURL": "https://github.com/kelvinlrh-cloud/codex-startup-workflow/blob/main/plugins/startup-workflow/legal/privacy.md",
+    "termsOfServiceURL": "https://github.com/kelvinlrh-cloud/codex-startup-workflow/blob/main/plugins/startup-workflow/legal/terms.md",
+    "defaultPrompt": [
+      "Start a 0-1 workflow from this new product idea.",
+      "Continue the current product initiation workflow.",
+      "Inspect workflow status and recommend the next stage."
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "screenshots": [
+      "./assets/screenshot1.png",
+      "./assets/screenshot2.png",
+      "./assets/screenshot3.png"
+    ]
+  }
+}

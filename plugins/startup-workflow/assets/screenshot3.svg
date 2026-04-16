@@ -1,0 +1,30 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="960" rx="36" fill="#EFF6FF"/>
+  <rect x="28" y="28" width="1384" height="904" rx="28" fill="#FFFFFF"/>
+  <rect x="68" y="68" width="608" height="824" rx="32" fill="#0F172A"/>
+  <text x="120" y="136" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="800">From Idea to MVP Scope</text>
+  <text x="120" y="188" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="22">Seven gated stages, one control plane, explicit stop points.</text>
+  <rect x="120" y="254" width="504" height="112" rx="24" fill="#1D4ED8"/>
+  <text x="156" y="316" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Current status</text>
+  <text x="156" y="348" fill="#DBEAFE" font-family="Helvetica, Arial, sans-serif" font-size="22">next recommended stage: market-and-strategy-reviewer</text>
+  <rect x="120" y="402" width="504" height="84" rx="22" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="156" y="455" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="26">Opportunity Framing: go</text>
+  <rect x="120" y="506" width="504" height="84" rx="22" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="156" y="559" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="26">Research Planning: go</text>
+  <rect x="120" y="610" width="504" height="84" rx="22" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="156" y="663" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="26">Evidence Review: revise</text>
+  <rect x="716" y="68" width="656" height="388" rx="32" fill="#DBEAFE"/>
+  <text x="764" y="138" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="800">Plugin packaging</text>
+  <text x="764" y="206" fill="#1E3A8A" font-family="Helvetica, Arial, sans-serif" font-size="24">- orchestrator plus 7 stage skills</text>
+  <text x="764" y="248" fill="#1E3A8A" font-family="Helvetica, Arial, sans-serif" font-size="24">- plugin manifest for installation and discovery</text>
+  <text x="764" y="290" fill="#1E3A8A" font-family="Helvetica, Arial, sans-serif" font-size="24">- marketplace entry for local plugin catalogs</text>
+  <text x="764" y="332" fill="#1E3A8A" font-family="Helvetica, Arial, sans-serif" font-size="24">- assets and starter prompts for productized UX</text>
+  <rect x="716" y="492" width="656" height="400" rx="32" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="4"/>
+  <text x="764" y="556" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="800">Starter prompts</text>
+  <rect x="764" y="602" width="560" height="66" rx="18" fill="#FEF3C7"/>
+  <text x="796" y="644" fill="#92400E" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Start a 0-1 workflow from this new idea.</text>
+  <rect x="764" y="694" width="560" height="66" rx="18" fill="#DCFCE7"/>
+  <text x="796" y="736" fill="#166534" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Continue the current product initiation workflow.</text>
+  <rect x="764" y="786" width="560" height="66" rx="18" fill="#E0F2FE"/>
+  <text x="796" y="828" fill="#0C4A6E" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Inspect the current workflow status and next stage.</text>
+</svg>

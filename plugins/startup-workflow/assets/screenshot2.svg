@@ -1,0 +1,26 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="960" rx="36" fill="#FFF7ED"/>
+  <rect x="28" y="28" width="1384" height="904" rx="28" fill="#FFFBEB"/>
+  <rect x="68" y="68" width="1304" height="148" rx="28" fill="#0F172A"/>
+  <text x="116" y="132" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="800">Research Planning With Clear Recruitment Logic</text>
+  <text x="116" y="184" fill="#CBD5E1" font-family="Helvetica, Arial, sans-serif" font-size="22">The workflow keeps evidence quality visible before strategic conclusions.</text>
+  <rect x="68" y="256" width="410" height="612" rx="24" fill="#FFFFFF"/>
+  <text x="104" y="314" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Interview Plan</text>
+  <rect x="104" y="352" width="338" height="66" rx="18" fill="#DBEAFE"/>
+  <text x="132" y="394" fill="#1E3A8A" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Target user segment</text>
+  <rect x="104" y="438" width="338" height="66" rx="18" fill="#E0F2FE"/>
+  <text x="132" y="480" fill="#0C4A6E" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Screener criteria</text>
+  <rect x="104" y="524" width="338" height="66" rx="18" fill="#FEF3C7"/>
+  <text x="132" y="566" fill="#92400E" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Interview guide</text>
+  <rect x="104" y="610" width="338" height="66" rx="18" fill="#DCFCE7"/>
+  <text x="132" y="652" fill="#166534" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Results template</text>
+  <rect x="518" y="256" width="854" height="292" rx="24" fill="#FFFFFF"/>
+  <text x="562" y="314" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Evidence Standards</text>
+  <text x="562" y="380" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="24">Separate observed behavior from claimed intent.</text>
+  <text x="562" y="422" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="24">Call out missing samples, weak recruitment, and unsupported claims.</text>
+  <text x="562" y="464" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="24">Do not advance the workflow if the evidence is thin.</text>
+  <rect x="518" y="576" width="854" height="292" rx="24" fill="#0F172A"/>
+  <text x="562" y="634" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Output Shape</text>
+  <text x="562" y="702" fill="#DBEAFE" font-family="Helvetica, Arial, sans-serif" font-size="24">A structured recommendation with next-stage readiness, risks,</text>
+  <text x="562" y="744" fill="#DBEAFE" font-family="Helvetica, Arial, sans-serif" font-size="24">and a clean go, revise, or stop decision.</text>
+</svg>

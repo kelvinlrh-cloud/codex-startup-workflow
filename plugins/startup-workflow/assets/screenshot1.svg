@@ -1,0 +1,42 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="960" rx="36" fill="#E2E8F0"/>
+  <rect x="28" y="28" width="1384" height="904" rx="28" fill="#F8FAFC"/>
+  <rect x="68" y="68" width="264" height="824" rx="24" fill="#0F172A"/>
+  <text x="100" y="126" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Startup Workflow</text>
+  <text x="100" y="178" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="18">Gated 0-1 process</text>
+  <rect x="96" y="230" width="208" height="64" rx="18" fill="#1D4ED8"/>
+  <text x="124" y="271" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Current Stage</text>
+  <rect x="96" y="322" width="208" height="58" rx="16" fill="#FFFFFF" fill-opacity="0.1"/>
+  <text x="122" y="358" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="20">Opportunity</text>
+  <rect x="96" y="398" width="208" height="58" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <text x="122" y="434" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="20">Research</text>
+  <rect x="96" y="474" width="208" height="58" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <text x="122" y="510" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="20">Evidence</text>
+  <rect x="372" y="68" width="1000" height="160" rx="24" fill="url(#hero)"/>
+  <text x="420" y="136" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="800">Frame the opportunity before you scale the idea</text>
+  <text x="420" y="186" fill="#DBEAFE" font-family="Helvetica, Arial, sans-serif" font-size="24">The orchestrator keeps stage order, state, and confirmation gates intact.</text>
+  <rect x="372" y="268" width="476" height="300" rx="24" fill="#FFFFFF"/>
+  <text x="408" y="324" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Why This Stage</text>
+  <text x="408" y="380" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="22">Clarify the target user, scenario,</text>
+  <text x="408" y="416" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="22">current alternatives, and the core</text>
+  <text x="408" y="452" fill="#334155" font-family="Helvetica, Arial, sans-serif" font-size="22">problem before deeper validation.</text>
+  <rect x="876" y="268" width="496" height="300" rx="24" fill="#0F172A"/>
+  <text x="912" y="324" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Required Inputs</text>
+  <text x="912" y="382" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="22">- rough idea or concept</text>
+  <text x="912" y="418" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="22">- explicit decision to reuse local files</text>
+  <text x="912" y="454" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="22">- language preference for outputs</text>
+  <rect x="372" y="604" width="1000" height="240" rx="24" fill="#DBEAFE"/>
+  <text x="408" y="664" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Decisions</text>
+  <rect x="408" y="706" width="162" height="74" rx="20" fill="#16A34A"/>
+  <text x="469" y="751" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="800">GO</text>
+  <rect x="592" y="706" width="206" height="74" rx="20" fill="#F59E0B"/>
+  <text x="642" y="751" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="800">REVISE</text>
+  <rect x="820" y="706" width="180" height="74" rx="20" fill="#DC2626"/>
+  <text x="876" y="751" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="800">STOP</text>
+  <defs>
+    <linearGradient id="hero" x1="372" y1="68" x2="1372" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

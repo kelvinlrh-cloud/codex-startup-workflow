@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="#0F172A"/>
+  <rect x="48" y="48" width="416" height="416" rx="96" fill="url(#bg)"/>
+  <rect x="92" y="118" width="136" height="62" rx="18" fill="#E2E8F0" fill-opacity="0.18"/>
+  <text x="124" y="160" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700">IDEA</text>
+  <path d="M212 256C212 232.804 230.804 214 254 214H358C381.196 214 400 232.804 400 256C400 279.196 381.196 298 358 298H254C230.804 298 212 279.196 212 256Z" fill="#F59E0B"/>
+  <path d="M288 256H154" stroke="#F59E0B" stroke-width="28" stroke-linecap="round"/>
+  <path d="M266 224L298 256L266 288" stroke="#0F172A" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="138" cy="330" r="36" fill="#BFDBFE"/>
+  <text x="126" y="342" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="800">0</text>
+  <circle cx="374" cy="330" r="36" fill="#DBEAFE"/>
+  <text x="364" y="342" fill="#0F172A" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="800">1</text>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="72" x2="440" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+</svg>

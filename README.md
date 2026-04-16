@@ -86,6 +86,11 @@ Codex 可以直接使用当前目录结构。
 
 Codex can use the current directory structure directly.
 
+This repository now supports two Codex-facing packaging modes:
+
+- direct skills under `skills/`
+- a repo-local plugin under `plugins/startup-workflow/`
+
 ### Other AI Tools
 
 其他 AI 工具通常有三种接入方式：
@@ -121,6 +126,36 @@ git clone https://github.com/kelvinlrh-cloud/codex-startup-workflow.git
 mkdir -p ~/.codex/skills
 cp -R codex-startup-workflow/skills/* ~/.codex/skills/
 ```
+
+### Codex Plugin
+
+如果你希望这套 workflow 以一个本地 plugin 的方式出现，而不是散落的 skill 目录，可以直接使用仓库内已经准备好的 plugin：
+
+```text
+plugins/startup-workflow/
+.agents/plugins/marketplace.json
+```
+
+这适合需要：
+
+- plugin manifest
+- marketplace entry
+- plugin-level icon, logo, and screenshots
+- 一个更像产品扩展的安装形态
+
+If you want the workflow to behave like a local Codex plugin instead of a loose skill pack, use the built-in plugin packaging in:
+
+```text
+plugins/startup-workflow/
+.agents/plugins/marketplace.json
+```
+
+This mode is useful when you want:
+
+- a plugin manifest
+- a marketplace entry
+- plugin-level branding assets
+- a more productized installation shape
 
 ### Other AI Tools
 
@@ -206,6 +241,16 @@ skills/
   market-and-strategy-reviewer/
   business-and-risk-reviewer/
   mvp-scope-planner/
+
+plugins/
+  startup-workflow/
+    .codex-plugin/plugin.json
+    skills/
+    assets/
+    legal/
+
+.agents/plugins/
+  marketplace.json
 ```
 
 请不要只复制单个 `SKILL.md`。
