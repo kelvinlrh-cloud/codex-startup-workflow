@@ -1,5 +1,5 @@
 ---
-name: a1-startup-workflow-orchestrator
+name: startup-workflow-orchestrator
 description: Use when the user wants to start, continue, or manage a staged product initiation workflow that moves from idea to MVP feature list. Coordinates the workflow state, initializes project files under docs/product-workflow, routes to the correct stage skill, and enforces stop-and-confirm behavior after each stage.
 ---
 
@@ -134,8 +134,8 @@ When orchestrating, keep the message short and structured:
 
 The workflow completes only when:
 
-- `a1-mvp-scope-planner` returns `go`
+- `mvp-scope-planner` returns `go`
 - the MVP feature list is present in `07-mvp-scope-planner.md`
 - `overall_status` is updated to `completed`
 
-If `a1-mvp-scope-planner` returns `revise` or `stop`, the workflow is not complete.
+If `mvp-scope-planner` returns `revise` or `stop`, the workflow is not complete.

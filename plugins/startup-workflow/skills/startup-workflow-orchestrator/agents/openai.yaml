@@ -1,4 +1,4 @@
 interface:
-  display_name: "A1 Startup Workflow Orchestrator"
+  display_name: "Startup Workflow Orchestrator"
   short_description: "Manage staged product initiation workflows."
-  default_prompt: "Use $a1-startup-workflow-orchestrator to start or continue a staged product initiation workflow."
+  default_prompt: "Use $startup-workflow-orchestrator to start or continue a staged product initiation workflow."

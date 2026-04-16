@@ -1,4 +1,4 @@
 interface:
-  display_name: "A1 Market and Strategy Reviewer"
+  display_name: "Market and Strategy Reviewer"
   short_description: "Review market logic, timing, and strategic fit."
-  default_prompt: "Use $a1-market-and-strategy-reviewer to assess whether this opportunity is strategically worth pursuing."
+  default_prompt: "Use $market-and-strategy-reviewer to assess whether this opportunity is strategically worth pursuing."

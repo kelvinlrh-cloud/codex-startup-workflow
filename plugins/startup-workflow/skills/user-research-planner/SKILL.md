@@ -1,5 +1,5 @@
 ---
-name: a1-user-research-planner
+name: user-research-planner
 description: Use when the user needs to design a user research plan for validating a product opportunity before evidence review. Best for choosing interview and survey methods, defining recruitment and screeners, writing interview guides, and creating note/result templates that the evidence review stage can consume.
 ---
 

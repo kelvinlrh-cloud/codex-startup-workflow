@@ -1,5 +1,5 @@
 ---
-name: a1-mvp-scope-planner
+name: mvp-scope-planner
 description: Use when the user needs to turn approved initiation findings into a narrow MVP feature list. Best for deciding what the MVP must solve, who it serves, what must be built first, what must not be built, and how the MVP will be validated after launch.
 ---
 

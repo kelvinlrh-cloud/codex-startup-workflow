@@ -1,5 +1,5 @@
 ---
-name: a1-evidence-and-insight-reviewer
+name: evidence-and-insight-reviewer
 description: Use when the user needs to assess whether current interviews, desk research, observations, or behavioral signals actually support a product opportunity. Best for reviewing evidence quality, spotting evidence gaps, separating supported claims from assumptions, and deciding whether the workflow can advance.
 ---
 

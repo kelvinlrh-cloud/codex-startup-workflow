@@ -2,13 +2,13 @@
 
 This workflow moves a product manager from a rough idea to an MVP feature list through six gated stages:
 
-1. `a1-opportunity-framer`
-2. `a1-user-research-planner`
-3. `a1-evidence-and-insight-reviewer`
-4. `a1-ai-fit-and-experience-reviewer`
-5. `a1-market-and-strategy-reviewer`
-6. `a1-business-and-risk-reviewer`
-7. `a1-mvp-scope-planner`
+1. `opportunity-framer`
+2. `user-research-planner`
+3. `evidence-and-insight-reviewer`
+4. `ai-fit-and-experience-reviewer`
+5. `market-and-strategy-reviewer`
+6. `business-and-risk-reviewer`
+7. `mvp-scope-planner`
 
 State model:
 

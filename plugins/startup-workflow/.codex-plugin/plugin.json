@@ -19,7 +19,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "0-1 project workflow",
+    "displayName": "Startup Workflow",
     "shortDescription": "A gated 0-1 workflow from idea to MVP scope.",
     "longDescription": "A packaged 0-1 product initiation workflow for AI agents. It combines a control-plane orchestrator with seven gated review stages so teams can move from a rough idea to a reviewable MVP scope without skipping validation steps.",
     "developerName": "Kelvin",

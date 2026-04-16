@@ -1,5 +1,5 @@
 ---
-name: a1-opportunity-framer
+name: opportunity-framer
 description: Use when the user needs to turn a vague product idea into a testable opportunity definition for the first stage of the startup initiation workflow. Best for clarifying target users, scenarios, problems, current alternatives, opportunity hypotheses, and boundaries before deeper evidence or strategy review.
 ---
 
