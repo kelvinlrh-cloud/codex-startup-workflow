@@ -4,7 +4,7 @@ This plugin packages the staged 0-1 product initiation workflow from this reposi
 
 It includes:
 
-- the `startup-workflow-orchestrator` control-plane skill
+- the `a1-startup-workflow-orchestrator` control-plane skill
 - seven stage skills from opportunity framing to MVP scope
 - plugin metadata for installation and discovery
 - local marketplace registration for repo-local use

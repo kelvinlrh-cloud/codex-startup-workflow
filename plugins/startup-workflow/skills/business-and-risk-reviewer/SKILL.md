@@ -1,5 +1,5 @@
 ---
-name: business-and-risk-reviewer
+name: a1-business-and-risk-reviewer
 description: Use when the user needs to decide whether an opportunity deserves investment rather than further admiration. Best for reviewing retention logic, acquisition paths, migration friction, cost structure, monetization possibilities, key risks, and clear kill criteria.
 ---
 

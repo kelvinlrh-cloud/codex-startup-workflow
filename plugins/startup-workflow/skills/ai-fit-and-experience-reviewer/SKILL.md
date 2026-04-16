@@ -1,5 +1,5 @@
 ---
-name: ai-fit-and-experience-reviewer
+name: a1-ai-fit-and-experience-reviewer
 description: Use when the user needs to decide whether AI is truly justified in a product experience. Best for judging AI necessity, defining the right AI role, surfacing user acceptance boundaries, and identifying privacy, trust, latency, and cost risks before the workflow advances.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: market-and-strategy-reviewer
+name: a1-market-and-strategy-reviewer
 description: Use when the user needs a company-level view on whether an opportunity is strategically worth pursuing. Best for reviewing market size, timing, competitive logic, why-now, why-us, and whether the current wedge can grow into a meaningful business.
 ---
 
